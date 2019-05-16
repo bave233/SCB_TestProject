@@ -1,0 +1,6 @@
+module Pods_SCB_ProjectTests {
+  umbrella header "Pods-SCB_ProjectTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

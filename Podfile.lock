@@ -1,0 +1,51 @@
+PODS:
+  - Alamofire (4.8.2)
+  - AlamofireImage (3.5.2):
+    - Alamofire (~> 4.8)
+  - JGProgressHUD (2.0.3)
+  - Moya (12.0.1):
+    - Moya/Core (= 12.0.1)
+  - Moya/Core (12.0.1):
+    - Alamofire (~> 4.1)
+    - Result (~> 4.0)
+  - Nimble (8.0.1)
+  - Quick (2.1.0)
+  - Result (4.0.1)
+  - SDWebImage (4.4.6):
+    - SDWebImage/Core (= 4.4.6)
+  - SDWebImage/Core (4.4.6)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireImage
+  - JGProgressHUD
+  - Moya
+  - Nimble
+  - Quick
+  - Result (~> 4.0.0)
+  - SDWebImage (~> 4.4.6)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - AlamofireImage
+    - JGProgressHUD
+    - Moya
+    - Nimble
+    - Quick
+    - Result
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  AlamofireImage: 63cfe3baf1370be6c498149687cf6db3e3b00999
+  JGProgressHUD: 12b20a8f4ffe05258f8635c1ab92816e451f904d
+  Moya: cf730b3cd9e005401ef37a85143aa141a12fd38f
+  Nimble: 45f786ae66faa9a709624227fae502db55a8bdd0
+  Quick: 4be43f6634acfa727dd106bdf3929ce125ffa79d
+  Result: a6e784bebf48b471d59cddc1adb81f41f678c487
+  SDWebImage: 3f3f0c02f09798048c47a5ed0a13f17b063572d8
+
+PODFILE CHECKSUM: 574a5d890b581c78810b8c4538bb0038cb481caf
+
+COCOAPODS: 1.6.1
